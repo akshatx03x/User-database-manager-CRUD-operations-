@@ -1,0 +1,1 @@
+A full-stack User Database Manager built with Node.js, Express, MongoDB, and EJS. It features a clean and responsive UI with complete CRUD functionality—allowing users to add, edit, update, and delete records including name, email, and profile image.
