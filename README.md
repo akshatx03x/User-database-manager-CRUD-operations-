@@ -33,7 +33,7 @@ Database: MongoDB
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/user-data-management-app.git
+(https://github.com/akshatx03x/User-database-manager-CRUD-operations-/tree/main)
 cd user-data-management-app
 
 2. Install dependencies
